@@ -1,0 +1,17 @@
+altair==5.1.1
+folium==0.14.0
+geopandas==0.13.2
+matplotlib==3.7.0
+networkx==2.8.4
+numpy==1.23.5
+pandas==1.5.3
+Pillow==9.4.0
+Pillow==10.0.0
+pydeck==0.8.1b0
+scikit_learn==1.2.1
+Shapely==2.0.1
+statsmodels==0.13.5
+streamlit==1.24.1
+streamlit_folium==0.13.0
+tabulate==0.8.10
+wordcloud==1.9.2
